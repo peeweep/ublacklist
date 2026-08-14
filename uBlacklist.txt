@@ -13605,6 +13605,7 @@
 *://z.sogou.com/*
 *://z.sogou.com/web/searchList.jsp?keyword=*
 *://zh-classical.wikipedia.org/*
+*://zh-yue.wikipedia.org/*
 *://zh.twgreatdaily.com/*
 *://zhidao.baidu.com/*
 *://zhidao.baidu.com/index/?word=*
