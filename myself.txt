@@ -1,5 +1,6 @@
 *://wuu.wikipedia.org/*
 *://zh-classical.wikipedia.org/*
+*://zh-yue.wikipedia.org/*
 *://183.136.206.102/*
 *://bbs.naixi.net/*
 *://cloud.baidu.com/article/*
